@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[קרקע חקלאית]]></title>
+  <link href="http://pamelabumpers.github.io/land//atom.xml" rel="self"/>
+  <link href="http://pamelabumpers.github.io/land//"/>
+  <updated>2013-07-18T15:15:37+03:00</updated>
+  <id>http://pamelabumpers.github.io/land//</id>
+  <author>
+    <name><![CDATA[ירום הודו]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
